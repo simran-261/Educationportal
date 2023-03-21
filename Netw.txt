@@ -1,0 +1,19 @@
+* A computer network is a digital telecommunications network which allows nodes to share resources.
+* In computer networks, networked computing devices exchange data with each other using a data link
+* Network computer devices that originate, route and terminate the data are called network nodes.
+* Nodes can include hosts such as personal computers, phones, servers as well as networking hardware.
+* It allows users to communicate efficiently and easily via various means: email, instant messaging, online chat
+* Most information in computer networks is carried in packets. 
+* A network packet is a formatted unit of data carried by a packet-switched network.
+* Packets are sent through the network to their destination. 
+* Once the packets arrive they are reassembled into their original message.
+* A network interface controller (NIC) is computer hardware that provides a computer with the ability to access the transmission media.
+* A repeater is an electronic device that receives a network signal, cleans it of unnecessary noise and regenerates it. 
+* A network bridge connects and filters traffic between two network segments. 
+* A switch is distinct from a hub.
+* It only forwards the frames to the physical ports involved in the communication rather than all ports connected.
+* A router is an internetworking device that forwards packets between networks by using a routing table.
+* For housing servers, 80-20  rule is used
+* For the use of repeaters 5-4-3 rule is used. 
+
+* The first worldwide network which led to the formation of Internet was ARPANET.

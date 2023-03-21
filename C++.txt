@@ -1,0 +1,19 @@
+* C++ is a middle-level programming language developed by Bjarne Stroustrup starting in 1979 at Bell Labs.
+* C++ is a  case-sensitive and free-form programming language that supports object-oriented and generic programming.
+* C++ fully supports Encapsulation, Data hiding, Inheritance and Polymorphism.
+* The line int main() is the main function where program execution begins.
+* C++ defines several headers, which contain information that is necessary to your program.
+* The semicolon (';') is a statement terminator.
+* In C++, the header files present support modularity.
+* C++ also supports function overloading.
+* C++ also supports encapsulation through the existence of classes.
+* There are 3 types of functions in C++ , which are
+(i) Accessor functions
+(ii) Mutator functions
+(iii) Manager functions
+* There are 2 manager functions:- 
+* First, is a constructor that allocates memory space for objects of a class.
+* Second, is a destructor that deallocates and frees that space up. 
+*  Constructor has a name same as that of the class but no return type 
+*  Destructor has a name same as that of the class with ~ sign and no return type
+* An abstract class is a class designed specifically to be used as a base class. it contains at least one pure virtual function.
