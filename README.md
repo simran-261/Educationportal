@@ -19,14 +19,14 @@
                           (You can create as many accounts as you wish)
 <br>
 1.Teacher's accounts with passwords:-<br>
-(i) TARUN JAISWAL   -  'tiger' <br>
-(ii) SUNIL JADHAW   -    '1234'<br>
-(iii) TARUN JAISWAL   -  '1234'<br> <br>
+(i) Aryan   -  'tiger' <br>
+(ii) Darawat    -    '1234'<br>
+(iii) Mohit singh   -  '1234'<br> <br>
 
 2. Student's accounts with passwords:- <br>
-(i) ANANT JAIN           -   'ttbmp' <br>
-(ii) SURYANSH GOYAL   -  '1234' <br>
-(iii) CHIRAG JAIN          -  '7654321$' <br>
+(i) Simran           -   'ttbmp' <br>
+(ii) Adi    -  '1234' <br>
+(iii) Amit         -  '7654321$' <br>
 <br>
                         Also, we have added 20 questions for the quiz already.
                               (You can add as many questions as you can)
