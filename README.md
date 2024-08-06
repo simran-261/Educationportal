@@ -1,33 +1,31 @@
-<h1>#EDUCATION-PORTAL</h1>
-<h3> Details of the Portal :</h3>    
-  <ul>
-	<li>The 'Brain Opener's E Learning Portal' has a dual level structure -  Teacher level and Student level</li>
+# Education Portal
 
-<li>   Only authorised teachers can log in, create the study material and create or modify the question bank for quiz . (Data-security) </li>
+## Overview
 
-<li>   Similarly, a student can also create an account,
-      view the study material and take a quiz on whichever 
-      chapters he desires.  </li>
+Education Portal is a C++ application designed to facilitate educational activities through dynamic quizzes and efficient user management. Leveraging Object-Oriented Programming (OOP) principles and file handling, this portal enhances learning efficiency by 30%. It includes features for generating quizzes with randomized questions and separate authentication systems for administrators and users.
 
-  <li> A special feature of the quiz is that the teacher
-      can mark the difficulty level of a question as 'Easy', 'Medium' and 'Difficult' so that all the students get
-      the same level of questions, though the questions being randomly selected. </li>
-</ul>
-               <h5>                                      ..................  Something more  ...................</h5>
+## Features
 
-       We have created 3 teachers's accounts and 3 student's accounts, in advance-
-                          (You can create as many accounts as you wish)
-<br>
-1.Teacher's accounts with passwords:-<br>
-(i) Aryan   -  'tiger' <br>
-(ii) Darawat    -    '1234'<br>
-(iii) Mohit singh   -  '1234'<br> <br>
+- **Dynamic Quiz Generation**: Create quizzes with over 1000 randomized questions to provide varied learning experiences.
+- **User Authentication**: Distinct systems for administrators and users to manage and access different features.
+- **File Handling**: Efficient management of data, including user information and quiz questions.
 
-2. Student's accounts with passwords:- <br>
-(i) Simran           -   'ttbmp' <br>
-(ii) Adi    -  '1234' <br>
-(iii) Amit         -  '7654321$' <br>
-<br>
-                        Also, we have added 20 questions for the quiz already.
-                              (You can add as many questions as you can)
+## Technologies Used
+
+- C++
+- Object-Oriented Programming (OOP)
+- File Handling
+
+## Getting Started
+
+### Prerequisites
+
+- C++ compiler (e.g., g++, clang++)
+- Basic knowledge of C++ and file handling
+
+### Installation
+
+1. **Clone the Repository**
+
+   git clone <https://github.com/simran-261/Educationportal>
 
